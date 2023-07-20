@@ -1,8 +1,6 @@
-<h1 align="center">Hello there! 
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1> 
-<h2 align="center">,I'm Osha Pandey <img src="https://img.icons8.com/?size=512&id=vfgSVbJjx0Yh&format=png" height="35" width="35"></h2> 
-<h3 align="center">BTech in Electronics and Computer Engineering, VIT Chennai</h3>
-<br><br>
+![image](https://github.com/OshaPandey/Osha/assets/98401889/e8818ef9-97cf-448a-8411-2557298dd50d)<h1 align="center">Hello there! 
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Osha Pandey</h1>
+<h3 align="center">Btech at Vellore Institute of Technology Chennai <img src="https://img.icons8.com/?size=512&id=vfgSVbJjx0Yh&format=png" width="28px" alt="angel"</h3>
 
 <h2><img src="https://media0.giphy.com/media/feQRYLoruyjguhLjK1/200.webp?cid=ecf05e47z0d3jybpmnynd2dvw31flm8rl906s4l3p9jm6f3h&rid=200.webp&ct=s" width="30"> Connect with me:</h2> 
 <p align="left">
