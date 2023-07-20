@@ -1,7 +1,6 @@
 <h1 align="center">Hello there! </h1> 
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, 
-<h2 align="center">I'm Osha Pandey</h2>
-<img src="https://img.icons8.com/?size=512&id=vfgSVbJjx0Yh&format=png" height="35" width="35"/></h1>
+<h2 align="center">I'm Osha Pandey <img src="https://img.icons8.com/?size=512&id=vfgSVbJjx0Yh&format=png" height="35" width="35"/></h2>
 <h3 align="center">BTech in Electronics and Computer Engineering, VIT Chennai</h3>
 <br><br>
 
