@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osha Pandey!!<img src="https://icons8.com/icon/vfgSVbJjx0Yh/angel" height="35" width="35"/></h1>
+<h1 align="center">Hi 👋, I'm Osha Pandey!!<img src="https://img.icons8.com/?size=512&id=vfgSVbJjx0Yh&format=png" height="35" width="35"/></h1>
 <h3 align="center">BTech in Electronics and Computer Engineering, VIT Chennai</h3>
 <br><br>
 
