@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Osha Pandey!!<img src="https://img.icons8.com/?size=512&id=vfgSVbJjx0Yh&format=png" height="35" width="35"/></h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" I'm Osha Pandey!!<img src="https://img.icons8.com/?size=512&id=vfgSVbJjx0Yh&format=png" height="35" width="35"/></h1>
 <h3 align="center">BTech in Electronics and Computer Engineering, VIT Chennai</h3>
 <br><br>
 
-<h3 align="left">Connect with me:</h3>
+<h2><img src="https://media0.giphy.com/media/feQRYLoruyjguhLjK1/200.webp?cid=ecf05e47z0d3jybpmnynd2dvw31flm8rl906s4l3p9jm6f3h&rid=200.webp&ct=s" width="30"> Connect with me:</h2> 
 <p align="left">
   <a href="https://www.linkedin.com/in/osha-pandey/" target="blank"><img align="center" src="https://img.icons8.com/office/40/000000/linkedin.png" alt="https://www.linkedin.com/in/osha-pandey/" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://https://open.spotify.com/user/31kfdnvtm7wazrrlypc4oo4o2dta?si=ac3ac55c335747aa" target="blank"><img align="center" src="https://img.icons8.com/office/40/000000/spotify.png" alt="https://open.spotify.com/user/lvvkfwukd2hb0wyxhor7xiatk?si=e6fb8c4a9a1241a1" height="50" width="50"/></a>
