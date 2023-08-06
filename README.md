@@ -32,6 +32,18 @@
 - Machine Learning
 - Data Analytics
 - DSA 
+<h2>Fun Facts about Me:</h2>
+<ul>
+  <li>I love coding with a cup of coffee ☕</li>
+  <li>My favorite hobby is playing badminton🏸 </li>
+  <li>I enjoy listening to music ♬ </li>
+</ul>
+
+<pre>
+   /\_/\  
+  ( o.o ) 
+   > ^ <
+</pre>
 
 <table>
   <tr>
