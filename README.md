@@ -32,7 +32,7 @@
 - Machine Learning
 - Data Analytics
 - DSA 
-<h2>Fun Facts about Me:</h2>
+<h2>😄 Fun Facts about Me:</h2>
 <ul>
   <li>I love coding with a cup of coffee ☕</li>
   <li>My favorite hobby is playing badminton🏸 </li>
