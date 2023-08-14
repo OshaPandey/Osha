@@ -25,41 +25,19 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="50" height="50"/>
   </a>
-  <!DOCTYPE html>
-<html>
-<head>
-<style>
-  .logo-container {
-    display: flex;
-    align-items: center;
-    margin-bottom: 20px;
-  }
 
-  .logo {
-    width: 50px;
-    height: 50px;
-    margin-right: 10px;
-  }
-</style>
-</head>
-<body>
-
-<div class="logo-container">
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" class="logo">
   </a>
-</div>
 
-<div class="logo-container">
+
+
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" class="logo">
   </a>
-</div>
 
-<div class="logo-container">
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" class="logo">
-  </a>
 </div>
 
 </body>
