@@ -26,7 +26,7 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="50" height="50"/>
   </a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" class="logo"></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://drive.google.com/file/d/1n-FZTLq3zLH2BWIKNRn94WcECE1qeZlL/view?usp=sharing" alt="TensorFlow" class="logo"></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" class="logo"></a>
 </p>
 
