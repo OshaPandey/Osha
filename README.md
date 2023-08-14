@@ -25,14 +25,11 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="50" height="50"/>
   </a>
-
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <style>
   .logo-container {
-    display: flex;
-    align-items: center;
     margin-bottom: 20px;
   }
 
@@ -63,14 +60,11 @@
   </a>
 </div>
 
-<!-- Add more logos and links as needed -->
+<!-- Add more logo containers with images and links as needed -->
 
 </body>
 </html>
 
-
-</body>
-</html>
 
 </p>
 
