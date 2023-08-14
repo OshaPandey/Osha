@@ -25,6 +25,20 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="50" height="50"/>
   </a>
+  <div class="logo-container">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" class="logo">
+  <span class="logo-name">Pandas</span>
+</div>
+
+<div class="logo-container">
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" class="logo">
+  <span class="logo-name">TensorFlow</span>
+</div>
+
+<div class="logo-container">
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" class="logo">
+  <span class="logo-name">PyTorch</span>
+</div
 </p>
 
 ### 🌱 I’m currently learning
