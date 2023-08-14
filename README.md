@@ -1,5 +1,3 @@
-
-<body>
 <h1 align="center">Hello there!<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Osha Pandey</h1>
 <h3 align="center">Btech at Vellore Institute of Technology Chennai <img src="https://img.icons8.com/?size=512&id=vfgSVbJjx0Yh&format=png" width="28px" alt="angel"</h3>
 
