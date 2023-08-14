@@ -25,47 +25,6 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="50" height="50"/>
   </a>
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .logo-container {
-    margin-bottom: 20px;
-  }
-
-  .logo {
-    width: 30px; /* Adjust the width as needed */
-    height: 30px; /* Adjust the height as needed */
-    margin-right: 10px;
-  }
-</style>
-</head>
-<body>
-
-<div class="logo-container">
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" class="logo">
-  </a>
-</div>
-
-<div class="logo-container">
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" class="logo">
-  </a>
-</div>
-
-<div class="logo-container">
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" class="logo">
-  </a>
-</div>
-
-<!-- Add more logo containers with images and links as needed -->
-
-</body>
-</html>
-
-
 </p>
 
 ### 🌱 I’m currently learning
