@@ -45,7 +45,7 @@
   ( o.o ) 
    > ^ <
 </pre>
-<p><img align="left" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?OshaPandey=anuraghazra&layout=compact)" alt="osha-pandey" /></p>
+<p><img align="left" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OshaPandey&layout=compact)" alt="osha-pandey" /></p>
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=OshaPandey&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
