@@ -47,7 +47,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=OshaPandey&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
-    <td><img align="left" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OshaPandey&layout=compact)" alt="osha-pandey" /></td
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshaPandey&layout=compact" alt="osha-pandey" /></td>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OshaPandey&theme=radical" alt="oshapandey" /></td>
    </tr>
 </table>
